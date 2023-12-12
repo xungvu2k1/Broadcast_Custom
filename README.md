@@ -1,0 +1,2 @@
+- Thực hiện tương tác giữa 2 app qua broadcast.
+- Cần cài đặt app BroadcastReceiver_2 , từ app này send 1 broadcast và bên app Broadcast_Custom này sẽ nhận được broadcast và hiển thị text lên màn hình.
